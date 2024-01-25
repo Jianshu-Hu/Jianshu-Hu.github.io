@@ -5,4 +5,5 @@ excerpt: 'In this paper, we propose a model optimization algorithm that automati
 date: 2023-01-05
 venue: 'IEEE Transaction on Robotics'
 paperurl: 'https://arxiv.org/abs/2301.02075'
+citation: 'Yu-ming Chen, Jianshu Hu, Michael Posa. Beyond Inverted Pendulums: Task-optimal Simple Models of Legged Locomotio. T-RO 2024'
 ---
