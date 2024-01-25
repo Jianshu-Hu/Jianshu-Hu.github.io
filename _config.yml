@@ -85,10 +85,9 @@ author:
   bio              : "PhD Student in SJTU-UMJI"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  openreview       : "https://openreview.net/profile?id=~Jianshu_Hu1"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"https://openreview.net/profile?id=~Jianshu_Hu1"
-  email            :
+  email            :  "hjs1998@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
