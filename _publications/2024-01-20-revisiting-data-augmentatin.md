@@ -1,7 +1,7 @@
 ---
 title: "Revisiting Data Augmentation in Deep Reinforcement Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-01-20-revisiting-data-augmentation
 excerpt: 'This paper analyzes the existing data augmentation methoods in Deep Reinforcement Learning and makes recommendations on how to apply data augmentation in DRL.'
 date: 2024-1-18
 venue: 'International Conference of Learning Representation'
