@@ -5,8 +5,7 @@ permalink: /publication/2024-01-20-revisiting-data-augmentation
 excerpt: 'This paper analyzes the existing data augmentation methoods in Deep Reinforcement Learning and makes recommendations on how to apply data augmentation in DRL.'
 date: 2024-1-18
 venue: 'International Conference of Learning Representation'
-paperurl: 'https://openreview.net/pdf?id=EGQBpkIEuu'
-citation: 'https://openreview.net/forum?id=EGQBpkIEuu'
+paperurl: 'https://openreview.net/forum?id=EGQBpkIEuu'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
