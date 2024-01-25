@@ -5,5 +5,5 @@ excerpt: 'This paper leverages a learned dynamics model for generating new data 
 date: 2022-09-10
 venue: 'International Conference of Robot Learning'
 paperurl: 'https://openreview.net/pdf?id=7CrXRhmzVVR'
-citation: Jianshu Hu, Paul Weng. Solving Complex Manipulation Tasks with Model-Assisted Model-Free Reinforcement Learning. CoRL 2022.
+citation: __Jianshu Hu__, Paul Weng. Solving Complex Manipulation Tasks with Model-Assisted Model-Free Reinforcement Learning. CoRL 2022.
 ---
